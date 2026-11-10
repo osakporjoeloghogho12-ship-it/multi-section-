@@ -1,0 +1,74 @@
+/* Basic page styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #14532d;
+  background-color: #ffffff;
+  margin: 20px;
+}
+
+/* Header style */
+header {
+  background-color: #14532d;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+header a {
+  color: #dcfce7;
+  text-decoration: none;
+}
+
+/* Section headings */
+h2 {
+  color: #14532d;
+}
+
+h3 {
+  color: #166534;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #dcfce7;
+}
+
+/* Form */
+form {
+  background-color: #f4f9f4;
+  padding: 15px;
+  width: 50%;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+/* Footer */
+footer {
+  background-color: #14532d;
+  color: white;
+  padding: 15px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+footer a {
+  color: #dcfce7;
+}
